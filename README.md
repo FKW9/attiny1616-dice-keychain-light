@@ -1,6 +1,6 @@
 Firmware for ATtiny Keychain - Digital Dice
 
-[LINK TO ELECROW]
+[LINK TO SHOP](https://www.elecrow.com/attiny-keychain-digital-dice.html)
 
 <p align="left">
   <img src="pictures/1.jpg" width="200" />
